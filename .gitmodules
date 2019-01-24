@@ -1,0 +1,6 @@
+[submodule "CLMS"]
+	path = CLMS
+	url = https://github.com/dinesh32/CLMS.git
+[submodule "week4Training"]
+	path = week4Training
+	url = https://github.com/dinesh32/week4Training.git
